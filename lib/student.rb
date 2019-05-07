@@ -1,4 +1,6 @@
 class Student
-  attr_accessor :name, :album, 
+  attr_accessor :name, :album, :id
+  
+  
   
 end
